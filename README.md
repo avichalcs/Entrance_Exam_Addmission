@@ -7,4 +7,4 @@ Jupyter Notebook
 ## Algorithm 
 ### Logistic Regression
 Implemented Logistic Regression using sckit learn.
-Accuracy- 95%
+#### Accuracy- 95%
